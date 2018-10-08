@@ -1,0 +1,10 @@
+{
+  "name": "stats_stuff",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "nba": "^4.3.2",
+    "nba.js": "^0.6.1"
+  }
+}
